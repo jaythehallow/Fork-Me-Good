@@ -20,4 +20,4 @@ You can use the discussion forum in the [Circle Hub Discussion Board.](https://c
 This repository is maintained by Claire Wicher (GirlGeekUpNorth) on behalf of [Shift Click](https://shiftclick.uk/), a programme of digital skills training workshops powered by [MadLab](https://www.madlab.org.uk/).
 
 ## Who has forked this repository?
-When forking this respoitory, amend this line to introduce yourself.
+this repository is fork by me 
